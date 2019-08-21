@@ -1,0 +1,2078 @@
+{
+	"data" : {
+	"operation":[
+    {
+        "name": "Fadly Ismael",
+        "value": 822736,
+        "store": [
+            {
+                "name": "Store 1",
+                "value": 23605,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 28015
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 22086
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 23093
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 23605
+                    }
+                ]
+            },
+            {
+                "name": "Store 2",
+                "value": 12720,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 23788
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 12840
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 26867
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 12720
+                    }
+                ]
+            },
+            {
+                "name": "Store 3",
+                "value": 27859,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 12504
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 17386
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 13344
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 27859
+                    }
+                ]
+            },
+            {
+                "name": "Store 4",
+                "value": 25828,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 22911
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 14109
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 15151
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 25828
+                    }
+                ]
+            },
+            {
+                "name": "Store 5",
+                "value": 25725,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 20764
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 21526
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 27519
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 25725
+                    }
+                ]
+            },
+            {
+                "name": "Store 6",
+                "value": 25181,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 20848
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 25496
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 25693
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 25181
+                    }
+                ]
+            },
+            {
+                "name": "Store 7",
+                "value": 11841,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 14295
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 12350
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 15328
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 11841
+                    }
+                ]
+            },
+            {
+                "name": "Store 8",
+                "value": 9162,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 18824
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 19103
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 28964
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 9162
+                    }
+                ]
+            },
+            {
+                "name": "Store 9",
+                "value": 28865,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 10632
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 24377
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 9596
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 28865
+                    }
+                ]
+            },
+            {
+                "name": "Store 10",
+                "value": 11060,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 12611
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 28886
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 22907
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 11060
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Hasalawati Ahmad",
+        "value": 778301,
+        "store": [
+            {
+                "name": "Store 11",
+                "value": 15476,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 14068
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 26989
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 8583
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 15476
+                    }
+                ]
+            },
+            {
+                "name": "Store 12",
+                "value": 16282,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 14542
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 27921
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 21571
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 16282
+                    }
+                ]
+            },
+            {
+                "name": "Store 13",
+                "value": 24146,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 19111
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 28401
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 17792
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 24146
+                    }
+                ]
+            },
+            {
+                "name": "Store 14",
+                "value": 16721,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 23933
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 23100
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 23364
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 16721
+                    }
+                ]
+            },
+            {
+                "name": "Store 15",
+                "value": 22857,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 28156
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 27676
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 12428
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 22857
+                    }
+                ]
+            },
+            {
+                "name": "Store 16",
+                "value": 18135,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 26467
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 28113
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 17873
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 18135
+                    }
+                ]
+            },
+            {
+                "name": "Store 17",
+                "value": 19471,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 21859
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 11026
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 19584
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 19471
+                    }
+                ]
+            },
+            {
+                "name": "Store 18",
+                "value": 27615,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 16189
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 15508
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 8337
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 27615
+                    }
+                ]
+            },
+            {
+                "name": "Store 19",
+                "value": 16564,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 11873
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 25086
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 22776
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 16564
+                    }
+                ]
+            },
+            {
+                "name": "Store 20",
+                "value": 10526,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 11027
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 9026
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 10365
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 10526
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Mohd Hairul",
+        "value": 810057,
+        "store": [
+            {
+                "name": "Store 21",
+                "value": 17839,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 17103
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 10192
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 17425
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 17839
+                    }
+                ]
+            },
+            {
+                "name": "Store 22",
+                "value": 20778,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 18676
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 25044
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 17588
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 20778
+                    }
+                ]
+            },
+            {
+                "name": "Store 23",
+                "value": 8095,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 27768
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 22722
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 16154
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 8095
+                    }
+                ]
+            },
+            {
+                "name": "Store 24",
+                "value": 21808,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 24275
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 20069
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 25836
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 21808
+                    }
+                ]
+            },
+            {
+                "name": "Store 25",
+                "value": 22504,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 12623
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 19017
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 19330
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 22504
+                    }
+                ]
+            },
+            {
+                "name": "Store 26",
+                "value": 15777,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 24484
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 15432
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 20075
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 15777
+                    }
+                ]
+            },
+            {
+                "name": "Store 27",
+                "value": 10744,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 23658
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 18694
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 26285
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 10744
+                    }
+                ]
+            },
+            {
+                "name": "Store 28",
+                "value": 23070,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 11197
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 24994
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 8834
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 23070
+                    }
+                ]
+            },
+            {
+                "name": "Store 29",
+                "value": 28385,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 26210
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 9661
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 22865
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 28385
+                    }
+                ]
+            },
+            {
+                "name": "Store 30",
+                "value": 19368,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 8739
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 11542
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 25517
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 19368
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Regu",
+        "value": 939758,
+        "store": [
+            {
+                "name": "Store 31",
+                "value": 28556,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 20785
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 18188
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 17294
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 28556
+                    }
+                ]
+            },
+            {
+                "name": "Store 32",
+                "value": 27945,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 22404
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 18627
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 13145
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 27945
+                    }
+                ]
+            },
+            {
+                "name": "Store 33",
+                "value": 25863,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 11270
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 23444
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 22869
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 25863
+                    }
+                ]
+            },
+            {
+                "name": "Store 34",
+                "value": 14814,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 19833
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 11031
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 15259
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 14814
+                    }
+                ]
+            },
+            {
+                "name": "Store 35",
+                "value": 20485,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 15130
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 11710
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 28117
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 20485
+                    }
+                ]
+            },
+            {
+                "name": "Store 36",
+                "value": 8306,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 26320
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 24145
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 22700
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 8306
+                    }
+                ]
+            },
+            {
+                "name": "Store 37",
+                "value": 21610,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 24201
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 15305
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 25518
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 21610
+                    }
+                ]
+            },
+            {
+                "name": "Store 38",
+                "value": 12803,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 16828
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 17660
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 14159
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 12803
+                    }
+                ]
+            },
+            {
+                "name": "Store 39",
+                "value": 10584,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 18990
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 9473
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 15808
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 10584
+                    }
+                ]
+            },
+            {
+                "name": "Store 40",
+                "value": 13743,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 21046
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 21898
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 19281
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 13743
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Richard",
+        "value": 902150,
+        "store": [
+            {
+                "name": "Store 41",
+                "value": 14932,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 13984
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 24461
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 21624
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 14932
+                    }
+                ]
+            },
+            {
+                "name": "Store 42",
+                "value": 27057,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 12035
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 26928
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 15711
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 27057
+                    }
+                ]
+            },
+            {
+                "name": "Store 43",
+                "value": 18454,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 15243
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 23466
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 25747
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 18454
+                    }
+                ]
+            },
+            {
+                "name": "Store 44",
+                "value": 9583,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 27244
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 25409
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 15205
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 9583
+                    }
+                ]
+            },
+            {
+                "name": "Store 45",
+                "value": 20495,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 9359
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 20316
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 20143
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 20495
+                    }
+                ]
+            },
+            {
+                "name": "Store 46",
+                "value": 25474,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 8010
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 10499
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 10902
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 25474
+                    }
+                ]
+            },
+            {
+                "name": "Store 47",
+                "value": 16861,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 11886
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 28407
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 23589
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 16861
+                    }
+                ]
+            },
+            {
+                "name": "Store 48",
+                "value": 24179,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 16167
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 8226
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 23906
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 24179
+                    }
+                ]
+            },
+            {
+                "name": "Store 49",
+                "value": 20137,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 16786
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 28736
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 10508
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 20137
+                    }
+                ]
+            },
+            {
+                "name": "Store 50",
+                "value": 27729,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 19974
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 18601
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 17521
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 27729
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Sarita",
+        "value": 868677,
+        "store": [
+            {
+                "name": "Store 51",
+                "value": 23685,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 11169
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 11844
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 15350
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 23685
+                    }
+                ]
+            },
+            {
+                "name": "Store 52",
+                "value": 20410,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 9125
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 17888
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 22016
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 20410
+                    }
+                ]
+            },
+            {
+                "name": "Store 53",
+                "value": 14599,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 15205
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 15564
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 10735
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 14599
+                    }
+                ]
+            },
+            {
+                "name": "Store 54",
+                "value": 21210,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 17609
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 24425
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 15822
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 21210
+                    }
+                ]
+            },
+            {
+                "name": "Store 55",
+                "value": 8807,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 13137
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 19536
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 21465
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 8807
+                    }
+                ]
+            },
+            {
+                "name": "Store 56",
+                "value": 8035,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 12955
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 9329
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 24529
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 8035
+                    }
+                ]
+            },
+            {
+                "name": "Store 57",
+                "value": 25490,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 26588
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 28592
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 23171
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 25490
+                    }
+                ]
+            },
+            {
+                "name": "Store 58",
+                "value": 22176,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 21871
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 27872
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 11348
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 22176
+                    }
+                ]
+            },
+            {
+                "name": "Store 59",
+                "value": 28788,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 16790
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 10666
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 16387
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 28788
+                    }
+                ]
+            },
+            {
+                "name": "Store 60",
+                "value": 21627,
+                "week": [
+                    {
+                        "name": "Week 1",
+                        "value": 12219
+                    },
+                    {
+                        "name": "Week 2",
+                        "value": 9395
+                    },
+                    {
+                        "name": "Week 3",
+                        "value": 28304
+                    },
+                    {
+                        "name": "Week 4",
+                        "value": 21627
+                    }
+                ]
+            }
+        ]
+    }
+],
+	"daytohour":[
+    {
+        "name": "Mon",
+        "value": 271976.82,
+        "time": [
+            {
+                "name": "00:00",
+                "value": 0
+            },
+            {
+                "name": "01:00",
+                "value": 0
+            },
+            {
+                "name": "02:00",
+                "value": 0
+            },
+            {
+                "name": "03:00",
+                "value": 0
+            },
+            {
+                "name": "04:00",
+                "value": 0
+            },
+            {
+                "name": "05:00",
+                "value": 0
+            },
+            {
+                "name": "06:00",
+                "value": 0
+            },
+            {
+                "name": "07:00",
+                "value": 0
+            },
+            {
+                "name": "08:00",
+                "value": 0
+            },
+            {
+                "name": "09:00",
+                "value": 0
+            },
+            {
+                "name": "10:00",
+                "value": 5439.5364
+            },
+            {
+                "name": "11:00",
+                "value": 19038.3774
+            },
+            {
+                "name": "12:00",
+                "value": 27197.682
+            },
+            {
+                "name": "13:00",
+                "value": 81593.046
+            },
+            {
+                "name": "14:00",
+                "value": 27197.682
+            },
+            {
+                "name": "15:00",
+                "value": 19038.3774
+            },
+            {
+                "name": "16:00",
+                "value": 16318.609199999999
+            },
+            {
+                "name": "17:00",
+                "value": 10879.0728
+            },
+            {
+                "name": "18:00",
+                "value": 13598.841
+            },
+            {
+                "name": "19:00",
+                "value": 27197.682
+            },
+            {
+                "name": "20:00",
+                "value": 13598.841
+            },
+            {
+                "name": "21:00",
+                "value": 5439.5364
+            },
+            {
+                "name": "22:00",
+                "value": 5439.5364
+            },
+            {
+                "name": "23:00",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "Tue",
+        "value": 407965.23,
+        "time": [
+            {
+                "name": "00:00",
+                "value": 0
+            },
+            {
+                "name": "01:00",
+                "value": 0
+            },
+            {
+                "name": "02:00",
+                "value": 0
+            },
+            {
+                "name": "03:00",
+                "value": 0
+            },
+            {
+                "name": "04:00",
+                "value": 0
+            },
+            {
+                "name": "05:00",
+                "value": 0
+            },
+            {
+                "name": "06:00",
+                "value": 0
+            },
+            {
+                "name": "07:00",
+                "value": 0
+            },
+            {
+                "name": "08:00",
+                "value": 0
+            },
+            {
+                "name": "09:00",
+                "value": 0
+            },
+            {
+                "name": "10:00",
+                "value": 8159.3045999999995
+            },
+            {
+                "name": "11:00",
+                "value": 28557.5661
+            },
+            {
+                "name": "12:00",
+                "value": 40796.523
+            },
+            {
+                "name": "13:00",
+                "value": 122389.56899999999
+            },
+            {
+                "name": "14:00",
+                "value": 40796.523
+            },
+            {
+                "name": "15:00",
+                "value": 28557.5661
+            },
+            {
+                "name": "16:00",
+                "value": 24477.9138
+            },
+            {
+                "name": "17:00",
+                "value": 16318.609199999999
+            },
+            {
+                "name": "18:00",
+                "value": 20398.2615
+            },
+            {
+                "name": "19:00",
+                "value": 40796.523
+            },
+            {
+                "name": "20:00",
+                "value": 20398.2615
+            },
+            {
+                "name": "21:00",
+                "value": 8159.3045999999995
+            },
+            {
+                "name": "22:00",
+                "value": 8159.3045999999995
+            },
+            {
+                "name": "23:00",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "Wed",
+        "value": 362635.76,
+        "time": [
+            {
+                "name": "00:00",
+                "value": 0
+            },
+            {
+                "name": "01:00",
+                "value": 0
+            },
+            {
+                "name": "02:00",
+                "value": 0
+            },
+            {
+                "name": "03:00",
+                "value": 0
+            },
+            {
+                "name": "04:00",
+                "value": 0
+            },
+            {
+                "name": "05:00",
+                "value": 0
+            },
+            {
+                "name": "06:00",
+                "value": 0
+            },
+            {
+                "name": "07:00",
+                "value": 0
+            },
+            {
+                "name": "08:00",
+                "value": 0
+            },
+            {
+                "name": "09:00",
+                "value": 0
+            },
+            {
+                "name": "10:00",
+                "value": 7252.715200000001
+            },
+            {
+                "name": "11:00",
+                "value": 25384.503200000003
+            },
+            {
+                "name": "12:00",
+                "value": 36263.576
+            },
+            {
+                "name": "13:00",
+                "value": 108790.728
+            },
+            {
+                "name": "14:00",
+                "value": 36263.576
+            },
+            {
+                "name": "15:00",
+                "value": 25384.503200000003
+            },
+            {
+                "name": "16:00",
+                "value": 21758.1456
+            },
+            {
+                "name": "17:00",
+                "value": 14505.430400000001
+            },
+            {
+                "name": "18:00",
+                "value": 18131.788
+            },
+            {
+                "name": "19:00",
+                "value": 36263.576
+            },
+            {
+                "name": "20:00",
+                "value": 18131.788
+            },
+            {
+                "name": "21:00",
+                "value": 7252.715200000001
+            },
+            {
+                "name": "22:00",
+                "value": 7252.715200000001
+            },
+            {
+                "name": "23:00",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "Thu",
+        "value": 317306.29000000004,
+        "time": [
+            {
+                "name": "00:00",
+                "value": 0
+            },
+            {
+                "name": "01:00",
+                "value": 0
+            },
+            {
+                "name": "02:00",
+                "value": 0
+            },
+            {
+                "name": "03:00",
+                "value": 0
+            },
+            {
+                "name": "04:00",
+                "value": 0
+            },
+            {
+                "name": "05:00",
+                "value": 0
+            },
+            {
+                "name": "06:00",
+                "value": 0
+            },
+            {
+                "name": "07:00",
+                "value": 0
+            },
+            {
+                "name": "08:00",
+                "value": 0
+            },
+            {
+                "name": "09:00",
+                "value": 0
+            },
+            {
+                "name": "10:00",
+                "value": 6346.125800000001
+            },
+            {
+                "name": "11:00",
+                "value": 22211.440300000006
+            },
+            {
+                "name": "12:00",
+                "value": 31730.629000000004
+            },
+            {
+                "name": "13:00",
+                "value": 95191.887
+            },
+            {
+                "name": "14:00",
+                "value": 31730.629000000004
+            },
+            {
+                "name": "15:00",
+                "value": 22211.440300000006
+            },
+            {
+                "name": "16:00",
+                "value": 19038.3774
+            },
+            {
+                "name": "17:00",
+                "value": 12692.251600000001
+            },
+            {
+                "name": "18:00",
+                "value": 15865.314500000002
+            },
+            {
+                "name": "19:00",
+                "value": 31730.629000000004
+            },
+            {
+                "name": "20:00",
+                "value": 15865.314500000002
+            },
+            {
+                "name": "21:00",
+                "value": 6346.125800000001
+            },
+            {
+                "name": "22:00",
+                "value": 6346.125800000001
+            },
+            {
+                "name": "23:00",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "Fri",
+        "value": 453294.7,
+        "time": [
+            {
+                "name": "00:00",
+                "value": 0
+            },
+            {
+                "name": "01:00",
+                "value": 0
+            },
+            {
+                "name": "02:00",
+                "value": 0
+            },
+            {
+                "name": "03:00",
+                "value": 0
+            },
+            {
+                "name": "04:00",
+                "value": 0
+            },
+            {
+                "name": "05:00",
+                "value": 0
+            },
+            {
+                "name": "06:00",
+                "value": 0
+            },
+            {
+                "name": "07:00",
+                "value": 0
+            },
+            {
+                "name": "08:00",
+                "value": 0
+            },
+            {
+                "name": "09:00",
+                "value": 0
+            },
+            {
+                "name": "10:00",
+                "value": 9065.894
+            },
+            {
+                "name": "11:00",
+                "value": 31730.629000000004
+            },
+            {
+                "name": "12:00",
+                "value": 45329.47
+            },
+            {
+                "name": "13:00",
+                "value": 135988.41
+            },
+            {
+                "name": "14:00",
+                "value": 45329.47
+            },
+            {
+                "name": "15:00",
+                "value": 31730.629000000004
+            },
+            {
+                "name": "16:00",
+                "value": 27197.682
+            },
+            {
+                "name": "17:00",
+                "value": 18131.788
+            },
+            {
+                "name": "18:00",
+                "value": 22664.735
+            },
+            {
+                "name": "19:00",
+                "value": 45329.47
+            },
+            {
+                "name": "20:00",
+                "value": 22664.735
+            },
+            {
+                "name": "21:00",
+                "value": 9065.894
+            },
+            {
+                "name": "22:00",
+                "value": 9065.894
+            },
+            {
+                "name": "23:00",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "Sat",
+        "value": 906589.4,
+        "time": [
+            {
+                "name": "00:00",
+                "value": 0
+            },
+            {
+                "name": "01:00",
+                "value": 0
+            },
+            {
+                "name": "02:00",
+                "value": 0
+            },
+            {
+                "name": "03:00",
+                "value": 0
+            },
+            {
+                "name": "04:00",
+                "value": 0
+            },
+            {
+                "name": "05:00",
+                "value": 0
+            },
+            {
+                "name": "06:00",
+                "value": 0
+            },
+            {
+                "name": "07:00",
+                "value": 0
+            },
+            {
+                "name": "08:00",
+                "value": 0
+            },
+            {
+                "name": "09:00",
+                "value": 0
+            },
+            {
+                "name": "10:00",
+                "value": 18131.788
+            },
+            {
+                "name": "11:00",
+                "value": 63461.25800000001
+            },
+            {
+                "name": "12:00",
+                "value": 90658.94
+            },
+            {
+                "name": "13:00",
+                "value": 271976.82
+            },
+            {
+                "name": "14:00",
+                "value": 90658.94
+            },
+            {
+                "name": "15:00",
+                "value": 63461.25800000001
+            },
+            {
+                "name": "16:00",
+                "value": 54395.364
+            },
+            {
+                "name": "17:00",
+                "value": 36263.576
+            },
+            {
+                "name": "18:00",
+                "value": 45329.47
+            },
+            {
+                "name": "19:00",
+                "value": 90658.94
+            },
+            {
+                "name": "20:00",
+                "value": 45329.47
+            },
+            {
+                "name": "21:00",
+                "value": 18131.788
+            },
+            {
+                "name": "22:00",
+                "value": 18131.788
+            },
+            {
+                "name": "23:00",
+                "value": 0
+            }
+        ]
+    },
+    {
+        "name": "Sun",
+        "value": 1813178.8,
+        "time": [
+            {
+                "name": "00:00",
+                "value": 0
+            },
+            {
+                "name": "01:00",
+                "value": 0
+            },
+            {
+                "name": "02:00",
+                "value": 0
+            },
+            {
+                "name": "03:00",
+                "value": 0
+            },
+            {
+                "name": "04:00",
+                "value": 0
+            },
+            {
+                "name": "05:00",
+                "value": 0
+            },
+            {
+                "name": "06:00",
+                "value": 0
+            },
+            {
+                "name": "07:00",
+                "value": 0
+            },
+            {
+                "name": "08:00",
+                "value": 0
+            },
+            {
+                "name": "09:00",
+                "value": 0
+            },
+            {
+                "name": "10:00",
+                "value": 36263.576
+            },
+            {
+                "name": "11:00",
+                "value": 126922.51600000002
+            },
+            {
+                "name": "12:00",
+                "value": 181317.88
+            },
+            {
+                "name": "13:00",
+                "value": 543953.64
+            },
+            {
+                "name": "14:00",
+                "value": 181317.88
+            },
+            {
+                "name": "15:00",
+                "value": 126922.51600000002
+            },
+            {
+                "name": "16:00",
+                "value": 108790.728
+            },
+            {
+                "name": "17:00",
+                "value": 72527.152
+            },
+            {
+                "name": "18:00",
+                "value": 90658.94
+            },
+            {
+                "name": "19:00",
+                "value": 181317.88
+            },
+            {
+                "name": "20:00",
+                "value": 90658.94
+            },
+            {
+                "name": "21:00",
+                "value": 36263.576
+            },
+            {
+                "name": "22:00",
+                "value": 36263.576
+            },
+            {
+                "name": "23:00",
+                "value": 0
+            }
+        ]
+    }
+]
+}
+}
